@@ -9,20 +9,7 @@ A UDF library with functions to interact with the operating system. These functi
 git clone git@github.com:ngocbd/lib_mysqludf_sys.git
 cd lib_mysqludf_sys/
 ./install.sh
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-``
+
 ## centos
 
 in centos install.sh script will  not work properly. 
